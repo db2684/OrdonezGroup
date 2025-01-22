@@ -1,1 +1,1 @@
-Kelly's folder for the Ordonez group git repo.
+Repo for the Ordonez UNT research group.
